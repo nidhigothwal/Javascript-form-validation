@@ -23,13 +23,15 @@ body {
     text-align: center;
     width: 400px;
 }
-h2{
+
+h2 {
     padding: 20px 0px;
 }
 
-.error{
+.error {
     color: red;
 }
+
 #fromsubmit {
     padding: 10px 15px;
     background-color: #007BFF;
@@ -37,4 +39,8 @@ h2{
     border: none;
     border-radius: 5px;
     cursor: pointer;
+}
+
+#color {
+    color: green;
 }
